@@ -1,5 +1,6 @@
 package com.example.lab08;
 
+// Hello -- Testing Continuous Integration (CI)
 public class City {
     private String city;
     private String province;
